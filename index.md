@@ -21,7 +21,7 @@ layout: page
     Feel free to reach out to me via e-mail if you have any questions, in particular questions related to my thesis or publications.
   </div>
   <div>
-  <img src="./photo.jpg" alt="Your Name" style="width: 728px; flex-shrink: 0; border-radius: 6px;"><br/>
+  <img src="./photo.jpeg" alt="Your Name" style="width: 728px; flex-shrink: 0; border-radius: 6px;"><br/>
   <p style="text-align:center"><b>E-Mail:</b> wackenhuth (at) protonmail.com</p>
   </div>
 </div>
